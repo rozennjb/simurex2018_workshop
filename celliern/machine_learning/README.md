@@ -6,9 +6,9 @@
 
 ## Abstract
 
-You certainly have heard about Machine-Learning. These algorithm have gain in popularity these past years. The main goal of this workshop is to demystify these algorithm and show you how you can use it in a daily-basis, as well for experimental data or simulation output analysis.
+You certainly have heard about Machine-Learning. These algorithms have gain in popularity these past years. The main goal of this workshop is to demystify these algorithm and show you how you can use it in a daily-basis, as well for experimental data or simulation output analysis.
 
-This workshop is barely an introduction, and will give you an overview of how easily you can have answer with these tools, but should be followed by a real training if you are interesting into going further.
+This workshop is barely an introduction, and will give you an overview of how easily you can have answer with these tools, but should be followed by a real training if you are interested into going further.
 
 No mathematical nor computing background is required, even if statistical basis as well as some python experience will make the workshop more enjoyable.
 
@@ -22,13 +22,13 @@ The next plan will be followed:
 
 ## Software Requirements
 
-As requirement, all the attendees should have a working [Anaconda 3 distribution installed in their computer](https://www.anaconda.com/download/) (python v3.7), which contains the majority of the scientific libs we are needed, as well as the following package:
+As requirements, all the attendees should have a working [Anaconda 3 distribution installed in their computer](https://www.anaconda.com/download/) (python v3.7), which contains the majority of the scientific libs we need, as well as the following packages:
 
 - `scikit-learn`
 - `seaborn`
 - `SALib`
 
-These one are available via the `conda` package manager or in command line via the anaconda prompt :
+These ones are available via the `conda` package manager or in command line via the anaconda prompt :
 
 ```bash
 conda install -c conda-forge scikit-learn seaborn
@@ -40,7 +40,7 @@ conda install -c conda-forge scikit-learn seaborn
 
 (click for full resolution. You'll have to adapt the packages names.)
 
-It is strongly advised to clone that repository few day before the workshop. It will contain all the data and source code for the exercises.
+It is strongly advised to clone that repository a few days before the workshop. It will contain all the data and source code for the exercises.
 
 You can easily do that with the following commands in the anaconda prompt:
 
@@ -51,6 +51,6 @@ conda install git
 git clone https://github.com/locie/simurex2018_workshop.git
 ```
 
-They attendees can freely use any code editor they want (spyder, vscode, a jupyter notebook...).
+The attendees can freely use any code editor they want (spyder, vscode, a jupyter notebook...).
 
 The later will allow you to directly run the teaching material (a notebook file as .ipynb).
